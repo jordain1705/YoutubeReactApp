@@ -1,5 +1,8 @@
+body{
+  background-color: white;
+}
 .search-bar{
-  margin;20px;
+  margin:20px;
   text-align: center;
 
 }
